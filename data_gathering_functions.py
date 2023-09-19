@@ -139,8 +139,6 @@ def get_ar_category(proposal, year):
     old_title =  wmf.mariadb.run(plinks_query.format(PAGE_TITLE=proposal.replace(' ', '_'), SURVEY_TITLE=get_title(year, 'main_page').replace(' ', '_')), dbs='metawiki')
     return old_title['page_title'].values[0]
 
-
-
 def get_categories_std(category_subpages, survey_title, year):
     query = """
     SELECT
