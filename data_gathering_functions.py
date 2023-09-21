@@ -222,3 +222,16 @@ def split_proposal_2015(wish_text):
     splits = re.split('{{collapse top', wish_text)
     discussion_splits = re.split('collapse bottom}}', splits[1])
     return splits[0], discussion_splits[0]
+
+def convert_errors_to_strings(dictionary):
+
+    for year, data in dictionary.items():
+        if isinstance(data, dict):
+
+            for key, value in data.items():
+                if isinstance(value, dict) and 'error' in value:
+
+                    value['error'] = str(value['error'])
+                elif isinstance(value, str):
+                    data[key] = str(value)
+    return dictionary
