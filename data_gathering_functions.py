@@ -86,9 +86,15 @@ def extract_proposals(text):
     return [m for m in matches if 'Category header' not in m]
 
 def extract_proposer_username(text):
-    pattern = r"'''Proposer''':.*?(?:(?:en:)?User(?:_?talk)?|User talk):(.*?)[\|\[]"
+    lines = text.split('\n')
     
-    match = re.search(pattern, text)
+    proposer_line = next((line for line in lines if 'proposer' in line), None)
+    if not proposer_line:
+        return None
+
+    pattern = r"\[\[User(?:_talk)?:([^|\]]+)(?:\|[^]]+)?\]\]"
+
+    match = re.search(pattern, proposer_line)
     if match:
         return match.group(1).strip()
     else:
