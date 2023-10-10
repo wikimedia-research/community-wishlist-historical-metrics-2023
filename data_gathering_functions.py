@@ -86,17 +86,19 @@ def extract_proposals(text):
     return [m for m in matches if 'Category header' not in m]
 
 def extract_proposer_username(text):
-    lines = text.split('\n')
+    optional_chars = r"(?:&mdash;|--|→)?\s*"
     
-    proposer_line = next((line for line in lines if 'proposer' in line), None)
-    if not proposer_line:
-        return None
+    pattern1 = rf"'''Proposer''':.*?{optional_chars}(?:(?:en:)?User(?:_?talk)?|User talk):(.*?)(?=[\|\[])"
+    
+    pattern2 = rf"\|\s*proposer\s*=\s*{optional_chars}\[\[User:(.*?)(?=[\|\[])"
+    
+    match1 = re.search(pattern1, text)
+    if match1:
+        return match1.group(1).strip()
 
-    pattern = r"\[\[User(?:_talk)?:([^|\]]+)(?:\|[^]]+)?\]\]"
+    elif re.search(pattern2, text):
+        return match2.group(1).strip()
 
-    match = re.search(pattern, proposer_line)
-    if match:
-        return match.group(1).strip()
     else:
         return None
     
@@ -197,6 +199,7 @@ def process_wishes_201516(page, year):
                         'votes_sec_number': float(votes_section['number']),
                         'votes_index': int(votes_section['index'])
                     })
+                    
             elif year == 2016:
                 discussion_section = next((
                     d for d in sections
