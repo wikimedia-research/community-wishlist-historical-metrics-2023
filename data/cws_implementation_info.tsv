@@ -1,0 +1,118 @@
+year	proposal	development_status	development_by	link
+2015	Migrate dead external links to archives	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Migrate_dead_external_links_to_archives
+2015	Improved diff comparisons	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Improved_diff_comparisons
+2015	Central repository for gadgets, templates and Lua modules	declined	misc_WMF	https://meta.wikimedia.org/wiki/Community_Tech/Central_repository_for_gadgets,_templates_and_Lua_modules
+2015	Cross-wiki watchlist	declined	None	https://meta.wikimedia.org/wiki/Community_Tech/Cross-wiki_watchlist
+2015	Numerical sorting in categories	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Numerical_sorting_in_categories
+2015	Pageview Stats tool	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Pageview_stats_tool
+2015	Global cross-wiki user talk page	declined	None	https://meta.wikimedia.org/wiki/Community_Tech/Global_cross-wiki_talk_page
+2015	Improve the plagiarism detection bot	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Improve_the_plagiarism_detection_bot
+2015	Add a user watchlist	declined	None	https://meta.wikimedia.org/wiki/Community_Tech/Add_a_user_watchlist
+2015	Allow categories in Commons in all languages	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Tech/Allow_categories_in_Commons_in_all_languages
+2016	Global gadgets	declined	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2016/Categories/Bots_and_gadgets#CW2016-R001
+2016	Edit summary length for non-Latin languages	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Tech/Edit_summary_length_for_non-Latin_languages
+2016	Section heading URLs for non-Latin languages	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Section_heading_URLs_for_non-Latin_languages
+2016	Global preferences	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Global_preferences
+2016	Rewrite XTools	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Rewrite_Xtools
+2016	Wikitext editor syntax highlighting	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Wikitext_editor_syntax_highlighting
+2016	Warning on unsuccessful login attempts	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/LoginNotify
+2016	Automatic archive for new external links	declined	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2016/Categories/Bots_and_gadgets#CW2016-R008
+2016	Fix Mr.Z-bot's popular pages report	done	CT	https://meta.wikimedia.org/wiki/Community_Tech/Fix_Mr._Z-bot%27s_popular_pages_report
+2016	User rights expiration	done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2016/Categories/Admins_and_stewards#CW2016-R010
+2017	Kartographer improvements	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Miscellaneous/Kartographer_improvements
+2017	Ping users from the edit summary	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Editing/Ping_users_from_the_edit_summary
+2017	Development of the programs and events dashboard	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Programs_and_events/Development_of_the_programs_and_events_dashboard
+2017	Blame tool	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Search/Blame_tool
+2017	Template wizard	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Editing/Infobox_wizard
+2017	Deploy Article Alerts to other languages	declined	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Bots_and_gadgets/Deploy_Article_Alerts_to_other_languages
+2017	Auto-save feature in Visual Editor and WikiText Editor	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Editing/Auto-save_feature_in_Visual_Editor_and_WikiText_Editor
+2017	Allow 'thanks' notification for a log entry	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Miscellaneous/Allow_%27thanks%27_notification_for_a_log_entry
+2017	SVG-Translate	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Multimedia_and_Commons/SVG-Translate
+2017	Commons deletion notification bot	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2017/Bots_and_gadgets/Commons_deletion_notification_bot
+2019	Page Curation and New Pages Feed improvements	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Admins_and_patrollers/Page_Curation_and_New_Pages_Feed_improvements
+2019	Night mode	declined	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Reading/Night_mode
+2019	Add an option to require email address and username to reset password	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Anti-harassment/Add_an_option_to_require_email_address_and_username_to_reset_password
+2019	Improve export of electronic books	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Wikisource/Improve_export_of_electronic_books
+2019	VisualEditor: Allow references to be named	declined	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Citations/VisualEditor:_Allow_references_to_be_named
+2019	Put mw.toolbar back	declined	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Editing/Put_mw.toolbar_back
+2019	Watchlist item expiration	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Watchlists/Watchlist_item_expiration
+2019	Article reminders	declined	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Notifications/Article_reminders
+2019	Include section name in the diff	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Editing/Include_section_name_in_the_diff
+2019	2FA available for all concerned editors	declined	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2019/Bots_and_gadgets/2FA_available_for_all_concerned_editors
+2020	Improve export of electronic books	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2020/Wikisource/Improve_export_of_electronic_books
+2020	New OCR tool	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2020/Wikisource/New_OCR_tool
+2020	Inter-language link support via Wikidata	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2020/Wikisource/Inter-language_link_support_via_Wikidata
+2020	Insert attestation using Wikisource as a corpus	not_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2020/Wiktionary/Insert_attestation_using_Wikisource_as_a_corpus
+2020	Migrate Wikisource specific edit tools from gadgets to Wikisource extension	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2020/Wikisource/Migrate_Wikisource_specific_edit_tools_from_gadgets_to_Wikisource_extension
+2021	Warn when linking to disambiguation pages	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Editing/Warn_when_linking_to_disambiguation_pages
+2021	Copy and paste from diffs	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Copy_paste_diffs
+2021	Realtime Preview	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Editing/Live_preview
+2021	(Un)delete associated talk page	done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Admins_and_patrollers/(Un)delete_associated_talk_page
+2021	Bibliographic bot for Wikidata	declined	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Bots_and_gadgets/Bibliographic_bot_for_Wikidata
+2021	Allow global user rights to expire automatically	done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Admins_and_patrollers/Allow_global_user_rights_to_expire_automatically
+2021	Global events calendar	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Miscellaneous/Global_events_calendar
+2021	Link Wikipedia redirects to Wikidata items	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Wikidata/Link_Wikipedia_redirects_to_Wikidata_items
+2021	Inline Audio-Player for pronunciations and other usages	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Multimedia_and_Commons/Inline_Audio-Player_for_pronunciations_and_other_usages
+2021	Mobile editnotices	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Mobile_and_apps/Mobile_editnotices
+2022	Select preview image	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Editing/Select_preview_image
+2022	Better diff handling of paragraph splits	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Editing/Better_diff_handling_of_paragraph_splits
+2022	Notifications for user page edits	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Anti-harassment/Notifications_for_user_page_edits
+2022	Tool that reviews new uploads for potential copyright violations	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Bots_and_gadgets/Tool_that_reviews_new_uploads_for_potential_copyright_violations
+2022	Improve SVG rendering	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Multimedia_and_Commons/Improve_SVG_rendering
+2022	IPA audio renderer	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Reading/IPA_audio_renderer
+2022	Enhanced Move Logs	not_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Miscellaneous/Enhanced_Move_Logs
+2022	Change default number of search results displayed	done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Search/Change_default_number_of_search_results_displayed
+2022	Autosuggest linking Wikidata item after creating an article	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Wikidata/Autosuggest_linking_Wikidata_item_after_creating_an_article
+2022	Show editnotices on mobile	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Show_editnotices_on_mobile
+2022	Table sorting on mobile	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Table_sorting_on_mobile
+2022	Categories in mobile app	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Categories_in_mobile_app
+2022	Get WhatLinksHere's lists in alphabetical order	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Miscellaneous/Get_WhatLinksHere%27s_lists_in_alphabetical_order
+2022	Mass-delete to offer drop-down of standard reasons, or templated reasons.	done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Admins_and_patrollers/Mass-delete_to_offer_drop-down_of_standard_reasons,_or_templated_reasons.
+2022	Gadget: Who is active	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Bots_and_gadgets/Gadget:_Who_is_active
+2022	Enable negation for tag filters	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Search/Enable_negation_for_tag_filters
+2022	Full page editing	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Full_page_editing
+2022	Enable Thanks Button by default in Watchlists and Recent Changes	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Notifications/Enable_Thanks_Button_by_default_in_Watchlists_and_Recent_Changes
+2022	Show edit count at Special:Contributions	done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Miscellaneous/Show_edit_count_at_Special:Contributions
+2022	Missing LaTeX capabilities for math rendering	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Editing/Missing_LaTeX_capabilities_for_math_rendering
+2022	Kartographer icon improvements	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Miscellaneous/Kartographer_icon_improvements
+2022	Audio links that play on click	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Multimedia_and_Commons/Audio_links_that_play_on_click
+2022	Allow adding sitelink to redirect in Wikipedia section	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Wikidata/Allow_adding_sitelink_to_redirect_in_Wikipedia_section
+2022	Show nearby or related articles in maps	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Miscellaneous/Show_nearby_or_related_articles_in_maps
+2022	Do not follow sitelink redirects when redirect badge is used	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Wikidata/Do_not_follow_sitelink_redirects_when_redirect_badge_is_used
+2022	Finish deployment of videojs (and remove kultura)	done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Multimedia_and_Commons/Finish_deployment_of_videojs_(and_remove_kultura)
+2022	Alert View	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Alert_View
+2022	Improve plain-text change tag selector	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Miscellaneous/Improve_plain-text_change_tag_selector
+2022	Preference to set default watchlist expiry	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Watchlists/Preference_to_set_default_watchlist_expiry
+2022	Watchlist in app	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Watchlist_in_app
+2022	No option to enable/disable automatic signing in DiscussionTools	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Editing/No_option_to_enable/disable_automatic_signing_in_DiscussionTools
+2022	Load images in metered networks only on demand	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Load_images_in_metered_networks_only_on_demand
+2022	Search within article on iOS app	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2022/Mobile_and_apps/Search_within_article_on_iOS_app
+2023	Allow citations to be edited in the references section with VisualEditor	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Citations/Allow_citations_to_be_edited_in_the_references_section_with_VisualEditor
+2023	Notifications for user page edits	done 	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Anti-harassment/Notifications_for_user_page_edits
+2023	Extend "Who Wrote That?" tool to more wikis	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Reading/Extend_%22Who_Wrote_That%3F%22_tool_to_more_wikis
+2023	Auto-save feature	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Editing/Auto-save_feature
+2023	Warn when adding a url reference that matches the SpamBlacklist	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Citations/Warn_when_adding_a_url_reference_that_matches_the_SpamBlacklist
+2023	Layering/timing of blocks	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Admins_and_patrollers/Layering/timing_of_blocks
+2023	Add link to CentralAuth on Special:Contributions	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Admins_and_patrollers/Add_link_to_CentralAuth_on_Special:Contributions
+2023	Add ability to share QR code for a page in any Wikimedia project	partially_done	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Mobile_and_apps/Add_ability_to_share_QR_code_for_a_page_in_any_Wikimedia_project
+2023	Search bar at preferences	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Miscellaneous/Search_bar_at_preferences
+2023	Native SVG support	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Multimedia_and_Commons/Native_SVG_support
+2023	Linking of citing tool with Wikidata	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Citations/Linking_of_citing_tool_with_Wikidata
+2023	Update Vega to the latest build	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Multimedia_and_Commons/Update_Vega_to_the_latest_build
+2023	Utility to attach acccount to all wikis	done 	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Admins_and_patrollers/Utility_to_attach_acccount_to_all_wikis
+2023	Create a button to expand all collapsible elements on a page	partially_done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Reading/Create_a_button_to_expand_all_collapsible_elements_on_a_page
+2023	Editable gallery captions in Visual Editor	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Editing/Editable_gallery_captions_in_Visual_Editor
+2023	Return to the article when closing the MediaViewer	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Reading/Return_to_the_article_when_closing_the_MediaViewer
+2023	Make the AbuseFilter edit window resizable and larger by default	done 	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Anti-harassment/Make_the_AbuseFilter_edit_window_resizable_and_larger_by_default
+2023	New users should see the deletion log when visiting a deleted page on English Wikipedia	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/New_contributors/New_users_should_see_the_deletion_log_when_visiting_a_deleted_page_on_English_Wikipedia
+2023	Support ASGI on Toolforge	done	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Bots_and_gadgets/Support_ASGI_on_Toolforge
+2023	Links for preferences	not_done	None	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Miscellaneous/Links_for_preferences
+2023	Fix Wikipedia IFTTT integration	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Miscellaneous/Fix_Wikipedia_IFTTT_integration
+2023	Change information about the number of watchers on a page	done 	CT	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Notifications,_Watchlists_and_Talk_Pages/Change_information_about_the_number_of_watchers_on_a_page
+2023	Fix security key (WebAuthn) support	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Miscellaneous/Fix_security_key_(WebAuthn)_support
+2023	Add "search results per page" at the top of Special:Search	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Multimedia_and_Commons/Add_%22search_results_per_page%22_at_the_top_of_Special:Search
+2023	Quickly visit template's page in Visual Editor	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Editing/Quickly_visit_template%27s_page_in_Visual_Editor
+2023	Change year range shown in date selection popup	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Miscellaneous/Change_year_range_shown_in_date_selection_popup
+2023	Watchlist edit - "check all" checkbox	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Notifications,_Watchlists_and_Talk_Pages/Watchlist_edit_-_%22check_all%22_checkbox
+2023	Button to mark a single change as read in the global watch list	done 	misc_WMF	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Notifications,_Watchlists_and_Talk_Pages/Button_to_mark_a_single_change_as_read_in_the_global_watch_list
+2023	Make Special:Search on Commons show all requested thumbnails	partially_done	volunteers	https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2023/Multimedia_and_Commons/Make_Special:Search_on_Commons_show_all_requested_thumbnails
