@@ -4,7 +4,7 @@ The [Community Wishlist Survey](https://meta.wikimedia.org/wiki/Community_Wishli
 
 As of December 2023, the Community Tech is working on analysing the feedback and participation from previous years to understand how this process could be improved to keep up with the growing needs of the movement, referred to as the [Future of the Wishlist](https://meta.wikimedia.org/wiki/Community_Wishlist_Survey/Future_Of_The_Wishlist). The historical metrics analysis is intended to support this process by surfacing historical trends of survey. The majority of the report focuses on community participation i.e. who have been participating, where the users come from (home wiki), their experience level etc.
 
-- Full report from the analysis: https://w.wiki/8ELx
+- Report: https://w.wiki/8ELx
 - Appendix: https://w.wiki/8qya
 
 ----
@@ -19,4 +19,4 @@ As of December 2023, the Community Tech is working on analysing the feedback and
 | `01-wishes_data_gathering.ipynb`                                                                                                               | for each iteration of the survey, gather data related to categories, proposals, usernames of proposers, discussants, and voters, and rejection reasons, if any.      |
 | `02-user_data_gathering.ipynb`                                                                                                                 | for each username, gather data on home-wiki, edit buckets on home-wiki and Meta-Wki, user rights on home-wiki and user account age.                                  |
 | `03-data_modelling.ipynb`                                                                                                                      | model the proposals and user data gathered into various tables to be used during analysis, using [DuckDB](https://duckdb.org/).                                       |
-| `04-analysis.ipynb`<br>➤ [view on nbviewer](https://nbviewer.org/github/wikimedia-research/cws-historical-metrics/blob/main/04-analysis.ipynb) | final analysis notebook <span style="font-size: 5px;">(note: not intended to serve as a report, please refer to the report on Meta-Wiki for narrative explanation and insights from the analysis)</span>. |
+| `04-analysis.ipynb`<br>➤ [view on nbviewer](https://nbviewer.org/github/wikimedia-research/cws-historical-metrics/blob/main/04-analysis.ipynb) | final analysis notebook <span style="font-size: 5px;">(note: not intended to serve as a report, please refer to the [report on Meta-Wiki](https://w.wiki/8ELx) for narrative explanation and insights from the analysis)</span>. |
