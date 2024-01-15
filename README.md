@@ -4,8 +4,8 @@ The [Community Wishlist Survey](https://meta.wikimedia.org/wiki/Community_Wishli
 
 As of December 2023, the Community Tech is working on analysing the feedback and participation from previous years to understand how this process could be improved to keep up with the growing needs of the movement, referred to as the [Future of the Wishlist](https://meta.wikimedia.org/wiki/Community_Wishlist_Survey/Future_Of_The_Wishlist). The historical metrics analysis is intended to support this process by surfacing historical trends of survey. The majority of the report focuses on community participation i.e. who have been participating, where the users come from (home wiki), their experience level etc.
 
-- Full report from the analysis: https://meta.wikimedia.org/wiki/Community_Wishlist_Survey/Historical_Metrics_2023
-- Appendix: https://meta.wikimedia.org/wiki/Community_Wishlist_Survey/Historical_Metrics_2023/Appendix
+- Full report from the analysis: https://w.wiki/8ELx
+- Appendix: [https://meta.wikimedia.org/wiki/Community_Wishlist_Survey/Historical_Metrics_2023/Appendix](https://w.wiki/8qya)
 
 ----
 
